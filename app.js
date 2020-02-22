@@ -49,7 +49,7 @@ yargs.command({
   }
 });
 
-//Create read command
+//Create a read command
 yargs.command({
   command: "read",
   describe: "Read a note",
